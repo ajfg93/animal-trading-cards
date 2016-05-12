@@ -1,0 +1,33 @@
+/* add your CSS here */
+body {
+  width:384px;
+}
+
+.title{
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    letter-spacing: 2px;
+}
+
+.clownfish{
+  width: 384px;
+}
+
+.interesting-fact{
+  font-style: italic;
+}
+
+.list-item{
+  font-style: italic;
+  list-style: none;
+}
+
+.label{
+  font-style: normal;
+  font-weight: bold;
+}
+
+.list{
+  padding-left:0px;
+}
